@@ -13,7 +13,7 @@ header{
     padding: 20px;
 }
 #principal{
-    background-image: url('cidade.jpg');
+    background-image: url('img/cidade.jpg');
     clear: both;
     background-size: 100%;
     min-height: 483px;
